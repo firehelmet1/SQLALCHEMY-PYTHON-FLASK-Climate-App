@@ -1,16 +1,6 @@
-# SQLAlchemy Homework - Climate Analysis
+# SQLAlchemy - Climate Analysis
 
 ![surfs-up.png](Images/surfs-up.png)
-
-## Climate Analysis and Exploration
-
-To begin, use Python and SQLAlchemy to do basic climate analysis and data exploration of your climate database. All of the following analysis should be completed using SQLAlchemy ORM queries, Pandas, and Matplotlib.
-
-* Choose a start date and end date for your analysis range of approximately 3-15 days total.
-
-* SQLAlchemy `create_engine` to connect to the sqlite database.
-
-* SQLAlchemy `automap_base()` to reflect tables into classes and save a reference to those classes called `Station` and `Measurement`.
 
 ### Precipitation Analysis
 
