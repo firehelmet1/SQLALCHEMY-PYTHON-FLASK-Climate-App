@@ -80,3 +80,6 @@ Created with the Flask API based on the queries that we have just developed.
 * `/api/v1.0/<start>` and `/api/v1.0/<start>/<end>`
 
   * Return a JSON list of the minimum temperature, the average temperature, and the max temperature for a given start or start-end range.
+
+## Code Execution
+In Gitbash or CLI, type "python hawaii_flask.py"
